@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "lexend";
+    src: url(ECOCICLO-main/ECOCICLO-main/font/Lexend-VariableFont_wght.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "lexend";
+}
+
+header{
+    background-image: url(ECOCICLO-main/ECOCICLO-main/img/fundo.png);
+    background-size: cover;
+    height: 500px;
+}
+
+.logo {
+    font-size: 90px;
+}
+
+.subtitulo {
+    font-size: 30px;
+}
